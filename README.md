@@ -1,8 +1,8 @@
 # mikrosajta
 
-#desktop
+## desktop
 ![desktop](https://raw.githubusercontent.com/nytornn/mikrosajta/main/desktop.png)
-#lightouse
+## lightouse
 ![lighthouse](https://raw.githubusercontent.com/nytornn/mikrosajta/main/lighthouse.png)
-#mobile
+## mobile
 ![mobile](https://raw.githubusercontent.com/nytornn/mikrosajta/main/mobile.png)
