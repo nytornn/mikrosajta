@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+}
+h1{
+    background-color: #e20074;
+    width: 100%;
+    margin: 0;
+    padding: 30px;
+}
+.text{
+    color: #e20074;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+}
+.logo{
+    width: auto;
+    height: 80px;
+}
+.p75{
+    font-size: 100px;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 50px;
+    width: 250px;
+    background-position: center;
+    margin: 0 auto;
+    color: white;
+    background-color: #e20074;
+}
+.map{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 500px;
+    width: 500px;
+}
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+.staty{
+    width: 20px;
+    height: 500px;
+}
+
